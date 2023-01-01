@@ -1,2 +1,2 @@
 # odin-recipes
-A website project demonstrating knowledge in HTML
+A website project to help me learn Git and Github
