@@ -1,0 +1,48 @@
+body.home{
+    text-align:center;
+}
+
+
+
+.table {
+    margin: 0 auto;
+    display: table;
+    background-color: bisque;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+img{
+    height: 100px;
+    width: auto;
+}
+
+.rows{
+    
+    display: table-row;
+    
+}
+
+.cells{
+     //border: 1px black solid;   
+     width: 300px;
+     display: table-cell;
+     padding: 10px;
+     margin: 10px;
+}
+
+
+
+
+.contents{
+    margin: 0 auto;
+    background-color: bisque;
+    width: 70%;
+    padding: 20px;
+}
+
+
+
+.heading{
+    text-align:center;
+}
